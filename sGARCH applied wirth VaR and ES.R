@@ -4,6 +4,7 @@ library(fGarch)
 library(ggpubr)
 library(zoo)
 library(forecast)
+library(ufRisk)
 
 set.seed(6858797)
 
